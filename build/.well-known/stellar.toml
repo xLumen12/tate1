@@ -1,31 +1,28 @@
 VERSION="2.2.1"
 
 ACCOUNTS=[
-"",
+"GAJCE6VQVKYA77OFXXVZMERRZNI7ZDGRIMIACYZQXPNRPD3GKI7GQMHF",
 ]
 
 [DOCUMENTATION]
-ORG_NAME=""
-ORG_URL=""
-ORG_DESCRIPTION=""
-ORG_LOGO=""
-ORG_PHYSICAL_ADDRESS=""
-ORG_OFFICIAL_EMAIL=""
+ORG_NAME="Tate Project"
+ORG_DESCRIPTION="Meet the new revolutionary cryptocurrency from Andrew Tate - TTC! Created with the promise of revolutionizing the financial world, this coin is backed by $100 million Tate's personal funds."
+ORG_LOGO="https://i.ibb.co/fqTWqsV/photo-2024-06-02-00-31-33.jpg"
 
 [[PRINCIPALS]]
-name=""
+name="Andrew Tate"
 
 
 [[CURRENCIES]]
-code=""
+code="TTC"
 status="live"
 display_decimals=2
-issuer=""
+issuer="GAJCE6VQVKYA77OFXXVZMERRZNI7ZDGRIMIACYZQXPNRPD3GKI7GQMHF"
 anchor_asset_type="crypto"
-name=""
-desc=""
-image=""
-fixed_number=
-max_number=
+name="Tate Project"
+desc="Meet the new revolutionary cryptocurrency from Andrew Tate - TTC! Created with the promise of revolutionizing the financial world, this coin is backed by $100 million Tate's personal funds."
+image="https://i.ibb.co/fqTWqsV/photo-2024-06-02-00-31-33.jpg"
+fixed_number=1000000
+max_number=1000000
 is_unlimited=false
-# was issued using the open and inclusive Stellar blockchain network.
+# Tate Project was issued using the open and inclusive Stellar blockchain network.
